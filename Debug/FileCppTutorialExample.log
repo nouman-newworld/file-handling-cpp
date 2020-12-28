@@ -1,0 +1,3 @@
+﻿  FileCppTutorialExample.cpp
+C:\Users\nouma\source\repos\FileCppTutorialExample\FileCppTutorialExample\FileCppTutorialExample.cpp(90): warning C4715: 'searchData': not all control paths return a value
+  FileCppTutorialExample.vcxproj -> C:\Users\nouma\source\repos\FileCppTutorialExample\Debug\FileCppTutorialExample.exe
